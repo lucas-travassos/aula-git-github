@@ -1,1 +1,1 @@
-teste
+alert("Teste")
